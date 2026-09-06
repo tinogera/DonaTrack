@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: logistica
+
+server:
+  port: 8084

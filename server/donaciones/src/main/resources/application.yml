@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: donaciones
+
+server:
+  port: 8081
