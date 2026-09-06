@@ -39,4 +39,4 @@ target/
 .env
 *.log
 CLAUDE.md
-.gitnore
+.gitinore
